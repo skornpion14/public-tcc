@@ -37,8 +37,8 @@ Podemos actualizar nuestra Política de Privacidad periódicamente. Le recomenda
 
 ## 7. Contacto
 Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos en:
-*   **Correo electrónico:** [TU_CORREO@EJEMPLO.COM] (Por favor, reemplaza esto con tu correo de contacto real).
+*   **Correo electrónico:** skornpion@gmail.com
 
 ---
 
-*Esta política ha sido redactada de acuerdo con los requisitos estándar de la Google Play Store para aplicaciones que utilizan servicios de publicidad y pagos de Google.*
+
